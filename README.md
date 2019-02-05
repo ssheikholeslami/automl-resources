@@ -1,3 +1,5 @@
+This is a draft, and will become more curated and more organized as I get more involved with the topic. However, I think these materials are definitely worth reading.
+
 # Essential Papers (General)
 
 - Taking Human out of Learning Applications: A Survey on Automated Machine Learning [(paper)](https://arxiv.org/abs/1810.13306) (2019)
@@ -7,7 +9,7 @@
 ## Essentials
 
 - Google Vizier: A Service for Black-Box Optimization [(paper)](https://dl.acm.org/citation.cfm?id=3098043) (KDD 2017)
-
+ 
 ## Advanced
 - Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization [(paper)](https://arxiv.org/abs/1603.06560) (2018)
 - Massively Parallel Hyperparameter Tuning [(paper)](https://arxiv.org/abs/1810.05934) [(blog post)](https://blog.ml.cmu.edu/2018/12/12/massively-parallel-hyperparameter-optimization/) (2019)
