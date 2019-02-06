@@ -1,4 +1,8 @@
-This is a draft, and will become more curated and more organized as I get more involved with the topic. However, I think these materials are definitely worth reading.
+This is a draft, and will become more curated and more organized as I get more involved with the topic. However, I think the listed resources are definitely worth going through.
+
+# Books
+- AutoML: Methods, Systems, Challenges [(book)](https://www.automl.org/book/) [(NIPS 2018 Tutorial)](https://www.facebook.com/nipsfoundation/videos/199543964204829)
+
 
 # Essential Papers (General)
 
@@ -34,12 +38,7 @@ This is a draft, and will become more curated and more organized as I get more i
 - AmoebaNet: Regularized Evolution for Image Classifier Architecture Search [(paper)](https://arxiv.org/abs/1802.01548) (2019)
 - DARTS: Differentiable Architecture Search [(paper)](https://arxiv.org/abs/1806.09055) (2018)
 - Learning to Learn Using Gradient Descent [(paper)](https://link.springer.com/chapter/10.1007%2F3-540-44668-0_13) (ICANN 2001)
-- 
 - Learning to Learn without Gradient Descent by Gradient Descent [(paper)](https://arxiv.org/abs/1611.03824) (ICML 2017)
 
 ## Other Related Literature
 - A Comparative Analysis of Selection Schemes Used in Genetic Algorithms [(paper)](https://www.sciencedirect.com/science/article/pii/B9780080506845500082)
-
-# Books
-- AutoML: Methods, Systems, Challenges [(book)](https://www.automl.org/book/) [(NIPS 2018 Tutorial)](https://www.facebook.com/nipsfoundation/videos/199543964204829)
-
