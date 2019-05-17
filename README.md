@@ -9,6 +9,7 @@ This is a draft, and will become more curated and more organized as I get more i
 - Taking Human out of Learning Applications: A Survey on Automated Machine Learning [(paper)](https://arxiv.org/abs/1810.13306) (2019)
 - Towards Automated Deep Learning: Efficient Joint Neural Architecture and Hyperparameter Search [(paper)](https://arxiv.org/abs/1807.06906) (2018)
 - Efficient and Robust Automated Machine Learning [(paper)](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning) (NIPS 2015)
+- Survey on Automated Machine Learning [(paper)](https://arxiv.org/abs/1904.12054https://arxiv.org/abs/1904.12054) (2019)
 
 # Hyperparameter Optimization
 ## Essentials
